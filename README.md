@@ -2,7 +2,7 @@
 <b> 『Lêɠêɳ̃dẞø†』🇮🇳 </b>
 </h1>
 
-[![LEGENDBOT](https://te.legra.ph/file/1cd6e941252000a5cd017.mp4)](https://github.com/LEGENDS-OP/LEGENDUSERBOT)
+[![LEGENDBOT](https://te.legra.ph/file/2fbfc78f39c7430893906.jpg)](https://github.com/LEGENDS-OP/LEGENDUSERBOT)
 
 <h6 align="center">
   <b>⚡ LegendBot Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon⚡</b>
