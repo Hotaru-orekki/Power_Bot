@@ -1,11 +1,11 @@
 <h1 align="center">
-<b> 『Lêɠêɳ̃dẞø†』🇮🇳 </b>
+<b> 『𝐏𝐨𝐰𝐞𝐫🌈™』 </b>
 </h1>
 
-[![LEGENDBOT](https://te.legra.ph/file/2fbfc78f39c7430893906.jpg)](https://github.com/LEGENDS-OP/LEGENDUSERBOT)
+[![𝐏𝐨𝐰𝐞𝐫🌈](https://te.legra.ph/file/2fbfc78f39c7430893906.jpg)](https://github.com/LEGENDS-OP/LEGENDUSERBOT)
 
 <h6 align="center">
-  <b>⚡ LegendBot Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon⚡</b>
+  <b>꧁♥️༺The smoothest userbot ༻♥️꧂</b>
 </h6>
 
 <p align="center">
@@ -34,15 +34,12 @@
 
 ------
 ## Telegram 🏪
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/Legend_Userbot)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Official_LegendBot)
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/AnimeNikko)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/AnimeWallCave)
 
 ------
-## YouTube 📺
-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCvp8PY25PTRhFDZjLv3sVfg?style=social)](https://youtube.com/channel/UCvp8PY25PTRhFDZjLv3sVfg)
-- [![YouTube Video Views](https://img.shields.io/youtube/views/9dQgdUJfk_k?label=Tutorial+•+Heroku+•&style=social)](https://youtu.be/9dQgdUJfk_k)
 
-------------
+
 <h3> Dєρℓογ το нєяοκυ </h3>
 
 ## U Can Click Below Without Fork If Eror Then Go To Down One Deploy To Heroku
@@ -57,7 +54,7 @@
 - Click Below Deploy To Heroku
 
 
-- [![Deploy](https://telegra.ph/file/1ded5ead2f8cc5828897a.jpg)](https://heroku.com/deploy/)
+- [![Deploy](https://te.legra.ph/file/316ac5bc5c761c4d85646.jpg)](https://heroku.com/deploy/)
 
 ## Deploy Locally
 
@@ -110,7 +107,7 @@
     - Now Run StringSession Given Below:
    
 
-[![String](https://telegra.ph/file/a6bca4695a54de983c015.jpg)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
+[![String](https://te.legra.ph/file/24375e5cff0cbe33c47aa.jpg)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
 
     - Click On Generate String
     - Then Click On Green Run Button.
